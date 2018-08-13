@@ -14,5 +14,5 @@ attr_accessor :wheel_size, :wheel_number
     "filling up!"
   end
  
-end
+
 end
